@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>AppleScript File</key>
+			<string>iTerm2nightly.applescript</string>
+			<key>Image File</key>
+			<string>icon.png</string>
+			<key>Title</key>
+			<string>Run Terminal Command</string>
+		</dict>
+	</array>
+	<key>Credits</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>alx stu</string>
+			<key>Link</key>
+			<string>www.github.com/alxstu</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Run the selected text as a terminal command in iTerm2 nightly build.</string>
+	<key>Extension Identifier</key>
+	<string>com.alxstu.popclip.extension.iTerm2Nightly</string>
+	<key>Extension Image File</key>
+	<string>RTC.png</string>
+	<key>Extension Name</key>
+	<string>iTerm2 Nightly</string>
+	</dict>
+</plist>
